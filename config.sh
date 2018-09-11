@@ -25,13 +25,13 @@
 AUTOMOUNT=true
 
 # Set to true if you need to load system.prop
-PROPFILE=false
+PROPFILE=true
 
 # Set to true if you need post-fs-data script
-POSTFSDATA=false
+POSTFSDATA=true
 
 # Set to true if you need late_start service script
-LATESTARTSERVICE=false
+LATESTARTSERVICE=true
 
 ##########################################################################################
 # Installation Message
@@ -41,8 +41,13 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "        Overlays4magisk        "
   ui_print "*******************************"
+  ui_print "         FOR ANY DEVICE        "
+  ui_print "*******************************"
+  ui_print "         By  Nathan602004      "
+  ui_print  "*******************************"   "
+  ui_print 
 }
 
 ##########################################################################################
