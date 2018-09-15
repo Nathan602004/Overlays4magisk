@@ -42,10 +42,9 @@ print_modname() {
   ui_print "*******************************"
   ui_print "        Overlays4magisk        "
   ui_print "*******************************"
-  ui_print "         FOR ANY DEVICE        "
   ui_print "*******************************"
   ui_print "         By  Nathan602004      "
-  ui_print  "*******************************"   "
+  ui_print  "*******************************"   
   ui_print 
 }
 
