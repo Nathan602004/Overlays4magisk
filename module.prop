@@ -1,7 +1,7 @@
 id=template
 name=Template Module
 version=v1
-versionCode=Corentin
+versionCode=1
 author=Nathan602004
 description= This Module add a few overlays and theme in the folder vendor/overlays and some accent in system/app
 minMagisk=17000
